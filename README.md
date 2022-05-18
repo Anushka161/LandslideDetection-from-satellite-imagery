@@ -31,7 +31,7 @@ In this project, we carried out 3 experiments for the prediction of landslide in
 Experiments were:
 * Pre-trained Model used as fixed extractor and fine tuned with classifier. Different experiment was carried out with different model like ResNet18, Resnet50 ( which     led to the accuracy of 74% ).
 * Autoencoder was used to extract the representation vector space and trained with out 1D convolution layers (which led to the accuracy of 93% ).
-* Attention was used along with autoencoder and classic CNN ( led to the accuracy of 92% ).
+* Attention was used along with autoencoder and classic CNN (which led to the accuracy of 92% ).
 
 At last we intend to develop a web application to deploy our trained models.
 
